@@ -7,3 +7,4 @@ Notes for a Coursera Course on Kubernetes for Data Engineering
 * [Fallacies of distributed computing by Sun](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 * [Kind Clusters](https://kind.sigs.k8s.io/docs/user/quick-start/#configuring-your-kind-cluster)
 * [Krew](https://github.com/kubernetes-sigs/krew/)
+* [k8ssandra](https://github.com/k8ssandra/k8ssandra-operator.git)
